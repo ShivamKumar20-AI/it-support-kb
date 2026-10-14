@@ -1,0 +1,7 @@
+asset_id,hostname,asset_type,manufacturer,model,serial_number,os,assigned_to,location,status,purchase_date,warranty_end
+A-0001,SITE-PC-001,Desktop,Dell,OptiPlex 7010,SAMPLE0001,Windows 11 Pro,Goods In,Bay 1,In use,2023-03-14,2026-03-14
+A-0002,SITE-PC-002,Desktop,Dell,OptiPlex 7010,SAMPLE0002,Windows 11 Pro,Despatch,Bay 4,In use,2023-03-14,2026-03-14
+A-0003,SITE-LT-001,Laptop,HP,ProBook 450 G9,SAMPLE0003,Windows 11 Pro,Shift Supervisor,Office,In use,2024-01-22,2027-01-22
+A-0004,SITE-LT-002,Laptop,HP,ProBook 450 G8,SAMPLE0004,Windows 10 Pro,Spare,IT Store,In stock,2022-06-09,2025-06-09
+A-0005,SITE-PR-001,Printer,Zebra,ZT411,SAMPLE0005,n/a,Despatch,Bay 4,In use,2023-08-02,2026-08-02
+A-0006,SITE-SC-001,Scanner,Zebra,TC52,SAMPLE0006,Android,Goods In,Bay 1,Repair,2022-11-18,2025-11-18
