@@ -11,6 +11,7 @@ A personal learning project: a small first-line IT support knowledge base, with 
 | [`kb/`](kb) | Eight knowledge base articles: accounts and lockouts, printers, slow PCs, network, Outlook, drivers, new user permissions, monitors and USB |
 | [`templates/`](templates) | A KB article template, a single point lesson template and a worked example |
 | [`scripts/`](scripts) | An asset inventory tool in Python that records a device's details to a CSV |
+| [`quality-audit-toolkit/`](quality-audit-toolkit) | A second project: an operational audit checklist, Excel audit tracker, trend script and sample report (fictional data) |
 | [`sample-data/`](sample-data) | A fictional CMDB-style asset register |
 | [`lab/`](lab) | A learning log of the guided Windows labs I have completed |
 

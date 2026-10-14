@@ -1,0 +1,72 @@
+Audit ID,Date,Area,Audit type,Original audit ID,Auditor,Checks done,Checks passed,Main finding
+A001,2026-07-06,Picking,Routine,,Auditor A,12,11,
+A002,2026-07-07,Goods In,Routine,,Auditor A,20,19,
+A003,2026-07-07,Hazardous Storage,Routine,,Auditor B,10,10,
+A004,2026-07-09,Despatch,Routine,,Auditor A,10,10,
+A005,2026-07-13,Picking,Routine,,Auditor A,15,14,
+A006,2026-07-14,Goods In,Routine,,Auditor B,10,9,
+A007,2026-07-16,Hazardous Storage,Routine,,Auditor B,15,13,Log not signed
+A008,2026-07-17,Despatch,Routine,,Auditor A,12,11,
+A009,2026-07-17,Returns,Routine,,Auditor B,12,11,
+A010,2026-07-20,Despatch,Routine,,Auditor B,10,9,
+A011,2026-07-21,Goods In,Routine,,Auditor A,12,12,
+A012,2026-07-22,Returns,Routine,,Auditor A,12,11,
+A013,2026-07-24,Picking,Routine,,Auditor B,20,19,
+A014,2026-07-24,Hazardous Storage,Routine,,Auditor B,15,14,
+A015,2026-07-27,Despatch,Routine,,Auditor B,10,9,
+A016,2026-07-30,Returns,Routine,,Auditor B,15,13,Late processing
+A017,2026-07-30,Hazardous Storage,Routine,,Auditor A,15,13,Spill kit not checked
+A018,2026-07-31,Goods In,Routine,,Auditor A,20,18,
+A019,2026-08-04,Hazardous Storage,Routine,,Auditor B,12,12,
+A020,2026-08-05,Returns,Routine,,Auditor A,20,16,Reason code missing
+A021,2026-08-06,Goods In,Routine,,Auditor A,10,10,
+A022,2026-08-06,Picking,Routine,,Auditor A,10,10,
+A023,2026-08-07,Despatch,Routine,,Auditor B,15,15,
+A024,2026-08-07,Hazardous Storage,Confirmation,A017,Auditor A,15,15,
+A025,2026-08-10,Hazardous Storage,Routine,,Auditor A,20,20,
+A026,2026-08-12,Picking,Routine,,Auditor A,10,10,
+A027,2026-08-12,Despatch,Routine,,Auditor A,15,15,
+A028,2026-08-13,Returns,Confirmation,A016,Auditor B,15,14,
+A029,2026-08-14,Returns,Routine,,Auditor B,20,17,Late processing
+A030,2026-08-17,Picking,Routine,,Auditor A,15,14,
+A031,2026-08-18,Returns,Routine,,Auditor A,20,17,Item not quarantined
+A032,2026-08-18,Returns,Confirmation,A020,Auditor A,20,19,
+A033,2026-08-19,Hazardous Storage,Routine,,Auditor B,15,14,
+A034,2026-08-21,Despatch,Routine,,Auditor A,12,10,Load not secured
+A035,2026-08-23,Returns,Confirmation,A029,Auditor B,20,18,
+A036,2026-08-24,Hazardous Storage,Routine,,Auditor B,15,15,
+A037,2026-08-26,Despatch,Routine,,Auditor A,15,13,Load not secured
+A038,2026-08-27,Picking,Routine,,Auditor A,15,14,
+A039,2026-08-28,Returns,Routine,,Auditor A,15,13,Item not quarantined
+A040,2026-08-30,Returns,Confirmation,A031,Auditor A,20,17,Item not quarantined
+A041,2026-09-01,Goods In,Routine,,Auditor A,15,14,
+A042,2026-09-01,Hazardous Storage,Routine,,Auditor B,12,11,
+A043,2026-09-04,Picking,Routine,,Auditor A,15,13,Pick not scanned
+A044,2026-09-05,Despatch,Confirmation,A037,Auditor A,15,15,
+A045,2026-09-05,Returns,Confirmation,A039,Auditor A,15,13,Reason code missing
+A046,2026-09-07,Goods In,Routine,,Auditor A,10,10,
+A047,2026-09-08,Returns,Routine,,Auditor A,10,9,
+A048,2026-09-09,Picking,Routine,,Auditor B,20,17,Wrong location pick
+A049,2026-09-11,Hazardous Storage,Routine,,Auditor B,10,10,
+A050,2026-09-14,Picking,Routine,,Auditor A,10,10,
+A051,2026-09-14,Picking,Confirmation,A043,Auditor A,15,12,Wrong location pick
+A052,2026-09-15,Despatch,Routine,,Auditor B,20,18,
+A053,2026-09-15,Hazardous Storage,Routine,,Auditor A,10,10,
+A054,2026-09-17,Returns,Routine,,Auditor A,20,16,Reason code missing
+A055,2026-09-21,Despatch,Routine,,Auditor A,12,10,Load not secured
+A056,2026-09-22,Returns,Routine,,Auditor A,15,14,
+A057,2026-09-22,Picking,Confirmation,A048,Auditor B,20,19,
+A058,2026-09-23,Picking,Routine,,Auditor A,12,11,
+A059,2026-09-23,Hazardous Storage,Routine,,Auditor A,15,14,
+A060,2026-09-24,Goods In,Routine,,Auditor B,12,11,
+A061,2026-09-28,Hazardous Storage,Routine,,Auditor B,10,10,
+A062,2026-09-29,Returns,Routine,,Auditor A,12,10,Reason code missing
+A063,2026-09-29,Despatch,Confirmation,A055,Auditor A,12,11,
+A064,2026-10-01,Picking,Routine,,Auditor A,20,18,
+A065,2026-10-02,Despatch,Routine,,Auditor A,10,10,
+A066,2026-10-05,Goods In,Routine,,Auditor A,10,10,
+A067,2026-10-05,Picking,Routine,,Auditor A,10,9,
+A068,2026-10-06,Returns,Confirmation,A062,Auditor A,12,11,
+A069,2026-10-09,Despatch,Routine,,Auditor B,12,12,
+A070,2026-10-09,Returns,Routine,,Auditor B,20,17,Late processing
+A071,2026-10-22,Returns,Confirmation,A070,Auditor B,20,17,Reason code missing
