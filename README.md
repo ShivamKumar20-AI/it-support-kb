@@ -10,9 +10,9 @@ A personal learning project: a small first-line IT support knowledge base, with 
 |---|---|
 | [`kb/`](kb) | Eight knowledge base articles: accounts and lockouts, printers, slow PCs, network, Outlook, drivers, new user permissions, monitors and USB |
 | [`templates/`](templates) | A KB article template, a single point lesson template and a worked example |
-| [`scripts/`](scripts) | Asset inventory tools in Python and PowerShell that record a device's details to a CSV |
+| [`scripts/`](scripts) | An asset inventory tool in Python that records a device's details to a CSV |
 | [`sample-data/`](sample-data) | A fictional CMDB-style asset register |
-| [`lab/`](lab) | A virtual machine lab guide for practising accounts, permissions and fault finding |
+| [`lab/`](lab) | A learning log of the guided Windows labs I have completed |
 
 ## Article format
 Every article has the same sections: **Symptom, Likely causes, Steps, Escalate when, Notes**. This keeps fixes consistent and makes it clear when to hand a problem on.
@@ -24,7 +24,7 @@ The tool collects hostname, user, operating system, make, model, serial number, 
 python3 scripts/asset_inventory.py asset_record.csv
 ```
 
-On Windows you can also use `scripts/Get-AssetInventory.ps1`.
+The script uses only the Python standard library and runs on Windows, macOS and Linux.
 
 ## Skills this shows
 Technical writing, troubleshooting method, Windows administration basics, least-privilege access, asset management, and simple scripting.
