@@ -14,7 +14,7 @@ For each room: what it covered, three things I learned, and one link to a knowle
   1.
   2.
   3.
-- **Related article:** [`kb/07-create-windows-user-with-permissions.md`](../kb/08-monitor-or-usb-device-not-detected.md)
+- **Related article:** [`kb/07-create-windows-user-with-permissions.md`](../kb/07-create-windows-user-with-permissions.md)
 
 ## Room 2: Windows Fundamentals 2 (TryHackMe)
 - **Date completed:**
